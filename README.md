@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rizwan Iqbal</h1>
 <h3 align="center">React & React Native Developer</h3>
-<img  src="https://drive.google.com/file/d/14_MfEzlRwCaNoV11OQzVg2Q6lKEljcov/view?usp=share_link" height="300px" width="400px" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwaniqbalkhan92&label=Profile%20views&color=0e75b6&style=flat" alt="rizwaniqbalkhan92" /> </p>
 

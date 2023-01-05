@@ -11,7 +11,7 @@
 
 <!-- - 📝 I regularly write articles on [https://rizwaniqbalkhan.blogspot.com/](https://rizwaniqbalkhan.blogspot.com/) -->
 - 
-- 📝 I regularly write articles on [https://rizwaniqbalkhan.blogspot.com/](https://rizwaniqbal-portfolio.com/)
+- 📝 I regularly write articles on [https://rizwaniqbal-portfolio.com/](https://rizwaniqbal-portfolio.com/)
 
 - 💬 Ask me about **MERN Stack**
 

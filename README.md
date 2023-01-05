@@ -9,7 +9,9 @@
  -->
 - 🌱 I’m currently learning **React Native , IoT**
 
-- 📝 I regularly write articles on [https://rizwaniqbalkhan.blogspot.com/](https://rizwaniqbalkhan.blogspot.com/)
+<!-- - 📝 I regularly write articles on [https://rizwaniqbalkhan.blogspot.com/](https://rizwaniqbalkhan.blogspot.com/) -->
+- 
+- 📝 I regularly write articles on [https://rizwaniqbalkhan.blogspot.com/](https://rizwaniqbal-portfolio.com/)
 
 - 💬 Ask me about **MERN Stack**
 
